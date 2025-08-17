@@ -1,1 +1,1 @@
-# GrafyEtsy-Yasal-Belgeler
+# GrafEtsy-Yasal-Belgeler
